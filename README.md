@@ -27,14 +27,6 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Installation
 
-<!--
-Avoid instructing users to execute shell commands. Prefer plain text instructions unless commands are strictly necessary (for example, when using a dedicated installation script).
-
-Prefer release downloads or links to files/directories within the repository over Git commands, curl, wget, or similar download methods.
-
-Build instructions should be documented separately (for example, in BUILD.md).
--->
-
-1. Download your preferred variant from [themes](themes) and copy into the `/usr/share/qtermwidget6/color-schemes` directory.
-2. Open QTerminal and go to **File** > **Preferences** > **Appearance** > **Color scheme**.
-3. Choose your preferred variant from the dropdown and click **Apply**.
+1. Download your preferred variant from [themes](themes) and copy into the `/usr/share/qtermwidget6/color-schemes` directory
+2. Open QTerminal and go to **File** > **Preferences** > **Appearance** > **Color scheme**
+3. Choose your preferred variant from the dropdown and click **Apply**
