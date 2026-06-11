@@ -8,13 +8,13 @@ Color=@@BACKGROUND@@
 Color=@@CURRENTLINE@@
 
 [Color0]
-Color=@@BACKGROUND@@
+Color=@@BLACK@@
 
 [Color0Faint]
-Color=@@BACKGROUND@@
+Color=@@BLACK@@
 
 [Color0Intense]
-Color=@@CURRENTLINE@@
+Color=@@BRIGHT_BLACK@@
 
 [Color1]
 Color=@@RED@@

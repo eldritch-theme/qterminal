@@ -1,96 +1,96 @@
 [Background]
-Color=23,25,40
+Color=33,35,55
 
 [BackgroundFaint]
-Color=23,25,40
+Color=33,35,55
 
 [BackgroundIntense]
-Color=37,39,56
+Color=50,52,73
 
 [Color0]
-Color=23,25,40
+Color=69,71,89
 
 [Color0Faint]
-Color=23,25,40
+Color=69,71,89
 
 [Color0Intense]
-Color=37,39,56
+Color=91,92,102
 
 [Color1]
-Color=204,88,96
-
-[Color1Faint]
-Color=204,88,96
-
-[Color1Intense]
 Color=241,108,117
 
+[Color1Faint]
+Color=241,108,117
+
+[Color1Intense]
+Color=251,91,102
+
 [Color2]
-Color=45,204,130
-
-[Color2Faint]
-Color=45,204,130
-
-[Color2Intense]
 Color=55,244,153
 
+[Color2Faint]
+Color=55,244,153
+
+[Color2Intense]
+Color=56,255,159
+
 [Color3]
-Color=204,214,99
-
-[Color3Faint]
-Color=204,214,99
-
-[Color3Intense]
 Color=241,252,121
 
+[Color3Faint]
+Color=241,252,121
+
+[Color3Intense]
+Color=255,249,82
+
 [Color4]
-Color=80,98,153
-
-[Color4Faint]
-Color=80,98,153
-
-[Color4Intense]
 Color=112,129,208
 
+[Color4Faint]
+Color=112,129,208
+
+[Color4Intense]
+Color=91,115,220
+
 [Color5]
-Color=139,117,217
-
-[Color5Faint]
-Color=139,117,217
-
-[Color5Intense]
 Color=164,140,242
 
+[Color5Faint]
+Color=164,140,242
+
+[Color5Intense]
+Color=138,105,247
+
 [Color6]
-Color=3,150,179
-
-[Color6Faint]
-Color=3,150,179
-
-[Color6Intense]
 Color=4,209,249
 
+[Color6Faint]
+Color=4,209,249
+
+[Color6Intense]
+Color=10,214,255
+
 [Color7]
-Color=216,230,230
+Color=235,250,250
 
 [Color7Faint]
-Color=216,230,230
+Color=235,250,250
 
 [Color7Intense]
 Color=235,250,250
 
 [Foreground]
-Color=216,230,230
+Color=235,250,250
 
 [ForegroundFaint]
-Color=216,230,230
+Color=235,250,250
 
 [ForegroundIntense]
-Color=216,230,230
+Color=235,250,250
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=Eldritch Abyss
+Description=Eldritch Cthulhu
 Opacity=1
 Wallpaper=
